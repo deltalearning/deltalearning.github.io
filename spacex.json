@@ -1,0 +1,28 @@
+{
+    "author": "Tamas Simon",
+    "mapsJSONVersion": "v1.0.0",
+    "comments": "On Saturday (May 30) at 3:22 p.m. EDT, we were watching the SpaceX Crew Dragon spacecraft launch with astronauts Robert Behnken and Douglas Hurley.",
+    "maps": [
+        {
+            "mapName": "View Live Stream",
+            "mapImageSrc": "https://hifi-json.s3.amazonaws.com/spacex/spacex-earth.jpg",
+            "mapLandmarks": [
+                {
+                    "name": "Click Here",
+                    "positionSU": {
+                        "x": 20,
+                        "y": 20,
+                        "z": 0
+                    },
+                    "widthSU": 4.5,
+                    "heightSU": 4.5,
+                    "rotationDegrees": -90,
+                    "hexColor": "#1C00ff00",
+                    "textHexColor": "#FFFFFF",
+                    "href": "https://www.youtube.com/watch?v=rjb9FdVdX5I",
+                    "imageHref": "https://hifi-json.s3.amazonaws.com/spacex/SpaceX.png"
+                }
+            ]
+        }
+    ]
+}
