@@ -8,10 +8,10 @@
             "mapImageSrc": "https://deltalearning.github.io/beach.jpg",
             "mapLandmarks": [
                 {
-                    "name": "Click Here",
+                    "name": "Delta Learning Club",
                     "positionSU": {
-                        "x": 20,
-                        "y": 20,
+                        "x": 22,
+                        "y": 22,
                         "z": 0
                     },
                     "widthSU": 1,
