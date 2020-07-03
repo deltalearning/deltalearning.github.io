@@ -15,9 +15,10 @@
                         "z": 0
                     },
                     "radiusSU": 4.5,
-                    "hexColor": "#1C00ff00",
+                    "hexColor": "#FF0000",
                     "textHexColor": "#FFFFFF",
                     "href": "https://deltalearning.club"
+                    
                 }
             ]
         }
