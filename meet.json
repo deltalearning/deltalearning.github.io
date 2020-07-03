@@ -19,7 +19,21 @@
                     "hexColor": "#FF0000",
                     "textHexColor": "#FFFFFF",
                     "href": "https://deltalearning.club",
-                    "imageHref":"https://deltalearning.github.io/dl.png"
+                    "imageHref": "https://deltalearning.github.io/dl.png"
+                },
+                {
+                    "name": "YouTube",
+                    "positionSU": {
+                        "x": 20,
+                        "y": 15,
+                        "z": 0
+                    },
+                    "widthSU": 1,
+                    "heightSU": 1,
+                    "hexColor": "#c634eb",
+                    "textHexColor": "#000000",
+                    "href": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                    "imageHref": "https://i.imgur.com/R8GMYxz.png"
                 }
             ]
         }
