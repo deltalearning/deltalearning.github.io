@@ -14,7 +14,8 @@
                         "y": 20,
                         "z": 0
                     },
-                    "radiusSU": 1,
+                    "widthSU": 1,
+                    "heightSU": 1,
                     "hexColor": "#FF0000",
                     "textHexColor": "#FFFFFF",
                     "href": "https://deltalearning.club",
