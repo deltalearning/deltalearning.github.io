@@ -8,7 +8,7 @@
             "mapImageSrc": "https://deltalearning.github.io/beach.jpg",
             "mapLandmarks": [
                 {
-                    "name": "Delta Learning Club",
+                    "name": "Live Stream",
                     "positionSU": {
                         "x": 22,
                         "y": 22,
@@ -18,7 +18,7 @@
                     "heightSU": 1,
                     "hexColor": "#FF0000",
                     "textHexColor": "#FFFFFF",
-                    "href": "https://deltalearning.club",
+                    "href": "https://youtube.com/AIW172ma_EGmukbD1TVm3w/UCAIW172ma_EGmukbD1TVm3w/live",
                     "imageHref": "https://deltalearning.github.io/dl.png"
                 }
             ]
