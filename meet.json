@@ -20,6 +20,20 @@
                     "textHexColor": "#FFFFFF",
                     "href": "https://youtube.com/AIW172ma_EGmukbD1TVm3w/UCAIW172ma_EGmukbD1TVm3w/live",
                     "imageHref": "https://deltalearning.github.io/dl.png"
+                },
+                {
+                    "name": "Stream",
+                    "positionSU": {
+                        "x": 25,
+                        "y": 25,
+                        "z": 0
+                    },
+                    "widthSU": 1,
+                    "heightSU": 1,
+                    "hexColor": "#FF0000",
+                    "textHexColor": "#FFFFFF",
+                    "href": "https://youtu.be/iakvdi2K8z4",
+                    "imageHref": "https://deltalearning.github.io/dl.png"
                 }
             ]
         }
