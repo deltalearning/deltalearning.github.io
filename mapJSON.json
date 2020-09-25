@@ -4,11 +4,11 @@
     "comments": "On Saturday (May 30) at 3:22 p.m. EDT, we were watching the SpaceX Crew Dragon spacecraft launch with astronauts Robert Behnken and Douglas Hurley.",
     "maps": [
         {
-            "mapName": "Versailles",
+            "mapName": "Beach",
             "mapImageSrc": "https://deltalearning.github.io/beach.jpg",
             "mapLandmarks": [
                 {
-                    "name": "Live Stream",
+                    "name": "Twitch Live Stream",
                     "positionSU": {
                         "x": 22,
                         "y": 22,
@@ -18,11 +18,11 @@
                     "heightSU": 1,
                     "hexColor": "#FF0000",
                     "textHexColor": "#FFFFFF",
-                    "href": "https://youtube.com/AIW172ma_EGmukbD1TVm3w/UCAIW172ma_EGmukbD1TVm3w/live",
-                    "imageHref": "https://deltalearning.github.io/dl.png"
+                    "href": "https://www.twitch.tv/deltalearning",
+                    "imageHref": "https://deltalearning.github.io/TwitchExtrudedWordmarkPurple.png"
                 },
                 {
-                    "name": "Stream",
+                    "name": "Mural Whiteboard",
                     "positionSU": {
                         "x": 25,
                         "y": 25,
@@ -32,8 +32,8 @@
                     "heightSU": 1,
                     "hexColor": "#FF0000",
                     "textHexColor": "#FFFFFF",
-                    "href": "https://youtu.be/iakvdi2K8z4",
-                    "imageHref": "https://deltalearning.github.io/dl.png"
+                    "href": "https://app.mural.co/t/warmersuneducation5078/m/warmersuneducation5078/1601001334321/e313b41c831dc1da47b36eb5367034091ca285864",
+                    "imageHref": "https://deltalearning.github.io/mural.png"
                 }
             ]
         }
