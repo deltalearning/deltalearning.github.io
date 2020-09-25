@@ -10,12 +10,12 @@
                 {
                     "name": "Twitch Live Stream",
                     "positionSU": {
-                        "x": 22,
-                        "y": 22,
+                        "x": 40,
+                        "y": 40,
                         "z": 0
                     },
-                    "widthSU": 1,
-                    "heightSU": 1,
+                    "widthSU": 10,
+                    "heightSU": 10,
                     "hexColor": "#FF0000",
                     "textHexColor": "#FFFFFF",
                     "href": "https://www.twitch.tv/deltalearning",
@@ -24,12 +24,12 @@
                 {
                     "name": "Mural Whiteboard",
                     "positionSU": {
-                        "x": 25,
-                        "y": 25,
+                        "x": 5,
+                        "y": 5,
                         "z": 0
                     },
-                    "widthSU": 1,
-                    "heightSU": 1,
+                    "widthSU": 10,
+                    "heightSU": 10,
                     "hexColor": "#FF0000",
                     "textHexColor": "#FFFFFF",
                     "href": "https://app.mural.co/t/warmersuneducation5078/m/warmersuneducation5078/1601001334321/e313b41c831dc1da47b36eb5367034091ca285864",
