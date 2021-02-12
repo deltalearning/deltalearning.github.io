@@ -1,9 +1,30 @@
 <!DOCTYPE html>
 <html>
+    <head>
+ <!-- Tribe Tag -->
+<script>
+    (function(t,r,i,b,e){
+      if(typeof t.Tribe==='function'){t.Tribe('reload',{portal:i});}
+      else{b=function(){b.r(arguments);};b.q=[];b.r=function(args){b.q.push(args);};
+      t.Tribe=b; e=r.createElement('script');e.type='text/javascript';e.async=true;
+      e.src=i+'/widget/v1/main.js?t='+Math.ceil(new Date() / 3e5) * 3e5;
+      var x=r.getElementsByTagName('script')[0];x.parentNode.insertBefore(e,x);
+      t.Tribe('boot',{portal:i});}
+    })(window,document,'https://deltalearning.club');
+  </script>       
+    </head>
 <body>
 <h1>Welcome</h1>
 <h2>Click here to join: 
     <a href="https://app.mural.co/t/warmersuneducation5078/m/warmersuneducation5078/1608250237847/84fae893f12a1105c325e035bbc648b8550727e0">https://app.mural.co/t/warmersuneducation5078/m/warmersuneducation5078/1608250237847/84fae893f12a1105c325e035bbc648b8550727e0</a>
 </h2>
+<h1>Rules</h1>
+<div id="home-widget"></div>
+<script>
+  window.Tribe('home', {
+    id: 'home-widget',     
+    components: ['menu', 'sidebar', 'input', 'feed']
+  })
+</script>
 </body>
 </html>
